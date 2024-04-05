@@ -10,5 +10,8 @@ void input()
 	while (true)
 	{
 		cout << "Masukan bilangan elemen dalam array"
+		cin >> n;
+		if ((n > 0) && (n <= 20))
+			break;
 	}
 }
