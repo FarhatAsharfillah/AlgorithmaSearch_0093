@@ -49,6 +49,10 @@ void LinearSearch()
 				cout << "\n" << item << " ditemukan dalam posisi " << (i + 1) << endl; //step 6
 				break;
 			}
+			i++; // step 4
 		}
+		if (i == n) //step 5
+			cout << "\n" << item << "tidak ditemukan dalan array\n";
+
 	}
 }
