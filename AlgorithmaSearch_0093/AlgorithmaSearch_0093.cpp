@@ -30,4 +30,5 @@ void input()
 void LinearSearch()
 {
 	char ch;
+	int ctr; // Bilangan perbandingan
 }
