@@ -16,4 +16,8 @@ void input()
 		else
 			cout << "\nArray harus memiliki minimal 1 dan maksimal 20 elemen. \n\n";
 	}
+// menerima elemen array
+	cout << "\n--------------------\n";
+	cout << " Masukan elemen array \n";
+	cout << "\n--------------------\n";
 }
