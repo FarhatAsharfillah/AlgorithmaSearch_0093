@@ -37,5 +37,6 @@ void LinearSearch()
 	{
 		//menerima bilangan untuk dicari
 		cout << "\nMasukan elemen yang ingin dicari: "; //step 1
+		cin >> item;
 	}
 }
