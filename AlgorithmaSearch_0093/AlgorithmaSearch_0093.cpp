@@ -53,6 +53,6 @@ void LinearSearch()
 		}
 		if (i == n) //step 5
 			cout << "\n" << item << "tidak ditemukan dalan array\n";
-
+		cout << "\nBilangan perbandingan : " << ctr << endl;
 	}
 }
