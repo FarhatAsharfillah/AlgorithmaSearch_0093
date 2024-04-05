@@ -57,5 +57,6 @@ void LinearSearch()
 
 		cout << "\nLanjutkan Pencarian (y/n): ";
 		cin >> ch;
-	}
+
+	} while ((ch == 'y') || (ch == 'Y'));
 }
