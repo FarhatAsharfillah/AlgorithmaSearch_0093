@@ -32,4 +32,10 @@ void LinearSearch()
 	char ch;
 	int ctr; // Bilangan perbandingan
 	int item;
+
+	do
+	{
+		//menerima bilangan untuk dicari
+		cout << "\nMasukan elemen yang ingin dicari: "; //step 1
+	}
 }
